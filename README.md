@@ -1,1 +1,1 @@
-This is fun project for practice ml algorithms.
+This is a fun project for practice ml algorithms.
