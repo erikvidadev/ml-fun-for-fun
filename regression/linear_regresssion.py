@@ -3,9 +3,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import numpy as np
 
-from regression.data_handler import DataLoader
-from regression.data_splitter import DataSplitter
-from regression.regression_visualizer import RegressionVisualizer
+from src.regression.data_handler import DataLoader
+from src.regression.data_splitter import DataSplitter
+from src.regression.regression_visualizer import RegressionVisualizer
 
 
 class LinearRegressionModel:
